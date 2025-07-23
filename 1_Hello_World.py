@@ -1,0 +1,6 @@
+print("Hello World!")
+print(46)
+print(46+6)
+print(46+6+85)
+print(46+6+8596)
+print(46+6+8596+85)
